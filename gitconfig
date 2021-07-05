@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mew.chayutaphong@gmail.com
+	name = kandanai leenutaphong
